@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+openpyxl
+
+# Comandos para inicializar o Git e subir os arquivos:
+# git init
+# git add .
+# git commit -m "Initial commit"
+# git branch -M main
+# git remote add origin <URL_DO_SEU_REPOSITORIO>
+# git push -u origin main
